@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Bundler
+.bundle
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Build outputs
+android/app/build/
+ios/Pods/
+ios/build/
+
+# React Native
+.expo/
+.expo-shared/
+*.expo
+*.lock
+*.jks
+
+# Miscellaneous
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+*.rej
+
+# Metro bundler
+*.hbc
+*.tflite
+*.map
+.cache/
+dist/
+
+# Test artifacts
+coverage/
+*.snap
+
+# Environment variables
+.env
+.env.local
+.env.*.local
