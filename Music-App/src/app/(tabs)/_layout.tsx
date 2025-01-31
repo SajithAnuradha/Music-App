@@ -18,8 +18,8 @@ const TabsNavigation=()=>{
        tabBarStyle: {
            position: 'absolute',
            borderTopWidth: 0,
-           left:5,
-            right:5,
+           left:8,
+            right:8,
            
            
            
@@ -32,8 +32,8 @@ const TabsNavigation=()=>{
             style={{
               ...StyleSheet.absoluteFillObject,
               overflow: 'hidden',
-              borderBottomRightRadius: 20,
-              borderBottomLeftRadius: 20,
+              borderBottomRightRadius: 30,
+              borderBottomLeftRadius: 30,
               borderTopLeftRadius: 10,
               borderTopRightRadius: 10,
               
